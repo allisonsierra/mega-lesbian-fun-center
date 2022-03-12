@@ -1,42 +1,54 @@
-# Brainstorming Notes
++++
+title = "Brainstorming Notes"
+description = "Notes"
+date = 2022-03-11T09:19:42+00:00
+updated = 2022-03-11T09:19:42+00:00
+draft = false
+template = "blog/page.html"
 
-- Classic lesbian business dreams:
-  - Coffee shop
-  - Bed and Breakfast
-  - Bookstore
+[taxonomies]
+authors = ["Rustaceans"]
 
-- Features of the ultimate Mega Lesbian Fun Center:
-  - Cafe / Coffee Shop and book store
-    - Tea, Coffee, Smoothies
-    - Baked goods like scones
-    - Tabletop gaming
-    - Lots of dietary options (Except keto)
-  - Bar / lounge
-     - Only shows women sports on the TV (RE: Portland)
-  - Vegan Bakery
-    - Supplies the coffee shop
-  - Climbing wall
-  - Roller derby rink
-  - Indoor bicycle racing track
-    - Adjacent pro shop / maintenance center
-  - Atrium / sun room / greenhouse with plants
-  - Animal therapy
-    - Dogs and cats are always around
-    - Great for people that cannot have their own pets
-  - Clothing shop
-    - Stock the shop with popular items for various lesbian fashion styles
-  - Barber chair / hair stylist
-    - Able to offer all the best lesbian hair styles
-  - Seasonal Activity / Flexible Space
-    - Space to handle trends that come in go
-    - Axe throwing area for butch lesbians to demonstrate feats of strength
-    - Runway for femme lesbian fashion shows
-  - Arts and Craft Studio
-    - Needlework including knitting, cross-stitch, crochet, etc
-    - Painting, photography, pottery and other mediums
-  - Design / Decoration
-    - Should be able to decorate areas according to various lesbian styles such as Victorian goth, super bright and bubbly, outdoor adventure, plaid/flannel, etc.
-    - Choice of design could impact how certain lesbian types react to an area, whether they are attracted to it or avoid it
+[extra]
+lead = "TODO"
++++
+## Classic Lesbian Business Dreams:
+- Coffee shop
+- Bed and Breakfast
+- Bookstore
+
+## Features of the Ultimate Mega Lesbian Fun Center:
+- Cafe / Coffee Shop and book store
+  - Tea, Coffee, Smoothies
+  - Baked goods like scones
+  - Tabletop gaming
+  - Lots of dietary options (Except keto)
+- Bar / lounge
+   - Only shows women sports on the TV (RE: Portland)
+- Vegan Bakery
+  - Supplies the coffee shop
+- Climbing wall
+- Roller derby rink
+- Indoor bicycle racing track
+  - Adjacent pro shop / maintenance center
+- Atrium / sun room / greenhouse with plants
+- Animal therapy
+  - Dogs and cats are always around
+  - Great for people that cannot have their own pets
+- Clothing shop
+  - Stock the shop with popular items for various lesbian fashion styles
+- Barber chair / hair stylist
+  - Able to offer all the best lesbian hair styles
+- Seasonal Activity / Flexible Space
+  - Space to handle trends that come in go
+  - Axe throwing area for butch lesbians to demonstrate feats of strength
+  - Runway for femme lesbian fashion shows
+- Arts and Craft Studio
+  - Needlework including knitting, cross-stitch, crochet, etc
+  - Painting, photography, pottery and other mediums
+- Design / Decoration
+  - Should be able to decorate areas according to various lesbian styles such as Victorian goth, super bright and bubbly, outdoor adventure, plaid/flannel, etc.
+  - Choice of design could impact how certain lesbian types react to an area, whether they are attracted to it or avoid it
 
 - Economy
   - Any approach we can take to make this game less capitalistic the better
